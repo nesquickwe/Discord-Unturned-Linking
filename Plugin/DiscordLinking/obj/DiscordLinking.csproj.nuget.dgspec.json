@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\roblo\\Downloads\\base38.00\\base\\DeanosBase\\x64\\Release\\DiscordLinking\\DiscordLinking\\DiscordLinking.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\roblo\\Downloads\\base38.00\\base\\DeanosBase\\x64\\Release\\DiscordLinking\\DiscordLinking\\DiscordLinking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roblo\\Downloads\\base38.00\\base\\DeanosBase\\x64\\Release\\DiscordLinking\\DiscordLinking\\DiscordLinking.csproj",
+        "projectName": "DiscordLinking",
+        "projectPath": "C:\\Users\\roblo\\Downloads\\base38.00\\base\\DeanosBase\\x64\\Release\\DiscordLinking\\DiscordLinking\\DiscordLinking.csproj",
+        "packagesPath": "C:\\Users\\roblo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roblo\\Downloads\\base38.00\\base\\DeanosBase\\x64\\Release\\DiscordLinking\\DiscordLinking\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\roblo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "RestoreMonarchy.RocketRedist": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[3.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

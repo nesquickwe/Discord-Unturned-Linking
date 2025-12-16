@@ -1,0 +1,9 @@
+C:\Users\roblo\Downloads\base38.00\base\DeanosBase\x64\Release\DiscordLinking\DiscordLinking\bin\Debug\net48\DiscordLinking.dll
+C:\Users\roblo\Downloads\base38.00\base\DeanosBase\x64\Release\DiscordLinking\DiscordLinking\bin\Debug\net48\DiscordLinking.pdb
+C:\Users\roblo\Downloads\base38.00\base\DeanosBase\x64\Release\DiscordLinking\DiscordLinking\obj\Debug\net48\DiscordLinking.csproj.AssemblyReference.cache
+C:\Users\roblo\Downloads\base38.00\base\DeanosBase\x64\Release\DiscordLinking\DiscordLinking\obj\Debug\net48\DiscordLinking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roblo\Downloads\base38.00\base\DeanosBase\x64\Release\DiscordLinking\DiscordLinking\obj\Debug\net48\DiscordLinking.AssemblyInfoInputs.cache
+C:\Users\roblo\Downloads\base38.00\base\DeanosBase\x64\Release\DiscordLinking\DiscordLinking\obj\Debug\net48\DiscordLinking.AssemblyInfo.cs
+C:\Users\roblo\Downloads\base38.00\base\DeanosBase\x64\Release\DiscordLinking\DiscordLinking\obj\Debug\net48\DiscordLinking.csproj.CoreCompileInputs.cache
+C:\Users\roblo\Downloads\base38.00\base\DeanosBase\x64\Release\DiscordLinking\DiscordLinking\obj\Debug\net48\DiscordLinking.dll
+C:\Users\roblo\Downloads\base38.00\base\DeanosBase\x64\Release\DiscordLinking\DiscordLinking\obj\Debug\net48\DiscordLinking.pdb
